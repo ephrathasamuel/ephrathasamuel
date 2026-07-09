@@ -54,7 +54,7 @@ Data, ML & Networking
 | Project | Description | Tech |
 |---|---|---|
 | [Cardano Bot](https://github.com/ephrathasamuel) | A Python bot that tracks ADA prices, wallet balances, and on-chain activity in real time, sending automated alerts and updates | Python |
-| [Childcare Tracking System](https://github.com/ephrathasamuel) | A Flutter app for parents and caregivers to log daily routines — feeding, sleep, milestones, and health records — with a clean, intuitive UI | Flutter, Dart |
+| [Childcare Tracking System](https://github.com/ephrathasamuel) | A Flutter app for parents and caregivers to log daily routines: feeding, sleep, milestones, and health records with a clean, intuitive UI | Flutter, Dart |
 
 ---
 
