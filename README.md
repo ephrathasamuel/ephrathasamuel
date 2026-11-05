@@ -1,17 +1,49 @@
 <h1 align="center">Hi, I'm Ephratha Samuel</h1>
 
 <p align="center">
-  <b>Full-stack student developer.</b> I build complete web apps, from the interface to the database,<br />
-  and ship them live. Open to full-stack internships.
+  <b>Full-stack developer.</b> I build complete web apps, from the interface to the database, and ship them live.<br />
+  Lately: data and machine learning for lending and farming, each project deployed with a demo you can try.
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,firebase,flutter,dart,py,java,docker,vercel,git,figma&perline=9" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Supabase, Firebase, Flutter, Dart, Python, Java, Docker, Vercel, Git, Figma" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,js,ts,react,nextjs,tailwind,nodejs,postgres,supabase,firebase,flutter,docker,vercel,githubactions,git,figma&perline=9" alt="Python, FastAPI, scikit-learn, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, PostgreSQL, Supabase, Firebase, Flutter, Docker, Vercel, GitHub Actions, Git, Figma" />
 </p>
 
 ---
 
 ## Featured work
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://agri-loan-desk.vercel.app"><img src="assets/agri-loan-desk.jpg" alt="Agri-Loan Climate Risk Desk assessment result" /></a>
+      <h3>Agri-Loan Climate Risk Desk</h3>
+      A loan officer draws a farm on satellite imagery; the desk replays 42 seasons of weather for it and returns climate risk, a repayable loan size and a priced drought insurance design.
+      <br /><br />
+      <code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code> <code>Docker</code> <code>GIS</code>
+      <br /><br />
+      <a href="https://agri-loan-desk.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ephrathasamuel/agri-loan-desk"><b>Code</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://repayment-risk-scorer.vercel.app"><img src="assets/repayment-risk-scorer.jpg" alt="Repayment Risk Scorer portfolio dashboard" /></a>
+      <h3>Repayment Risk Scorer</h3>
+      Explainable credit scoring: a LightGBM model (AUC 0.79) scores borrowers from repayment history and shows the factors behind every score, with a model registry and audit trail.
+      <br /><br />
+      <code>LightGBM</code> <code>SHAP</code> <code>FastAPI</code> <code>Next.js</code> <code>PostgreSQL</code>
+      <br /><br />
+      <a href="https://repayment-risk-scorer.vercel.app"><b>Live demo</b></a> · <a href="https://github.com/ephrathasamuel/repayment-risk-scorer"><b>Code</b></a>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://irrigation-advisor-ca3x.vercel.app"><img src="assets/irrigation-advisor.jpg" alt="Irrigation Advisor home page" /></a>
+      <h3>Irrigation Advisor</h3>
+      Watering plans for farmers from live weather and the FAO-56 method, plus a season water budget and storage-pond sizing. In English and Amharic.
+      <br /><br />
+      <code>Python</code> <code>Flask</code> <code>NASA POWER</code> <code>SoilGrids</code>
+      <br /><br />
+      <a href="https://irrigation-advisor-ca3x.vercel.app"><b>Live site</b></a> · <a href="https://github.com/ephrathasamuel/irrigation-advisor"><b>Code</b></a>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -47,8 +79,9 @@
 
 ## Currently
 
-- Building full-stack apps with **Next.js, Supabase and PostgreSQL**, tested with **Vitest and Playwright**
-- Learning backend architecture and payments; exploring Big Data, Machine Learning and networking (Cisco)
+- Building data-driven tools with **Python, FastAPI and machine learning** (LightGBM, SHAP), with **Next.js** front ends
+- Deploying on **Docker, Render, Neon and Vercel**, with tests and CI on every push
+- Exploring Big Data, climate and agricultural data, and networking (Cisco)
 - Looking to collaborate on real-world applications
 
 <sub>Fun fact: you thought I was gonna tell you :')</sub>
