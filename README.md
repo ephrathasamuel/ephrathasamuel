@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,js,ts,react,nextjs,reactrouter,tailwind,nodejs,nestjs,express,postgres,sqlite,supabase,firebase,flutter,threejs,docker,jest,vercel,githubactions,git,figma&perline=12" alt="Python, FastAPI, scikit-learn, JavaScript, TypeScript, React, Next.js, React Router, Tailwind CSS, Node.js, NestJS, Express, PostgreSQL, SQLite, Supabase, Firebase, Flutter, Three.js, Docker, Jest, Vercel, GitHub Actions, Git, Figma" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,sklearn,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,postgres,sqlite,supabase,firebase,flutter,threejs,docker,jest,vercel,githubactions,git,linux,ubuntu,bash,figma&perline=13" alt="Python, FastAPI, scikit-learn, JavaScript, TypeScript, React, Next.js, Tailwind CSS, Node.js, NestJS, Express, PostgreSQL, SQLite, Supabase, Firebase, Flutter, Three.js, Docker, Jest, Vercel, GitHub Actions, Git, Linux, Ubuntu, Bash, Figma" />
 </p>
 
 ---
